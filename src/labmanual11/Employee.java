@@ -1,8 +1,8 @@
 package labmanual11;
 
 public class Employee {
-    private String name;
-    private double salary;
+    protected String name;
+    protected double salary;
 
     Employee(String name, double salary){
         this.name = name;
