@@ -26,7 +26,7 @@ public class Employee {
     }
 
     void displayInfo(){
-        System.out.println("Name: "+name+"Salary: "+salary);
+        System.out.println("Name: "+name+"\nSalary: "+salary);
     }
 
     double calculateBonus(double bonus){
